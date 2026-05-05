@@ -14,3 +14,4 @@ with console.status('Monkeying around...', spinner='monkey'):
 
 with console.status('Aguarde...', spinner='aesthetic'):
     sleep(2)
+    
